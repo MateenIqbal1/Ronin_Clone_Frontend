@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/images/bud1.webp",
+    "title": "Clear Crystal sound",
+    "description": "Experience premium sound with Ronin Handsfree/Airbuds — designed for comfort and clarity. Enjoy seamless connectivity and long-lasting battery life for all-day use. Crystal-clear calls and deep bass deliver an immersive audio experience. Compact, stylish, and perfect for music lovers and multitaskers on the go.",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "image": "/images/bud2.webp",
+    "title": "Comfort Hearing ",
+    "description": "Experience premium sound with Ronin Handsfree/Airbuds — designed for comfort and clarity. Enjoy seamless connectivity and long-lasting battery life for all-day use. Crystal-clear calls and deep bass deliver an immersive audio experience. Compact, stylish, and perfect for music lovers and multitaskers on the go.",
+    "price": 59.99
+  },
+  {
+    "id": 3,
+    "image": "/images/bud3.webp",
+    "title": "Best Bass",
+    "description": "Experience premium sound with Ronin Handsfree/Airbuds — designed for comfort and clarity. Enjoy seamless connectivity and long-lasting battery life for all-day use. Crystal-clear calls and deep bass deliver an immersive audio experience. Compact, stylish, and perfect for music lovers and multitaskers on the go.",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "image": "/images/bud4.webp",
+    "title": "Gaming Buds",
+    "description": "Experience premium sound with Ronin Handsfree/Airbuds — designed for comfort and clarity. Enjoy seamless connectivity and long-lasting battery life for all-day use. Crystal-clear calls and deep bass deliver an immersive audio experience. Compact, stylish, and perfect for music lovers and multitaskers on the go.",
+    "price": 29.99
+  }
+]
